@@ -1,1 +1,1 @@
-# django_ishi
+Here is my django project
